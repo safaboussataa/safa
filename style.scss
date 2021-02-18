@@ -1,0 +1,14 @@
+$color: red; 
+$textcolor : white ; 
+$paracolor : #333;
+body {
+    background-color: $color;
+}
+
+h1 {
+    color: $textcolor;
+}
+
+p{
+    color: $paracolor;
+}
